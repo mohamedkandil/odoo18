@@ -22,5 +22,5 @@
 'installable': True,
 'application': True,
 'license': 'LGPL-3',
- 'price': 100,
+'price': 100,
 }
